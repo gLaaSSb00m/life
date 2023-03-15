@@ -1,5 +1,10 @@
 i complemetd
 my name is abid
+<<<<<<< HEAD
 there are new sentence
 there is new line
 
+=======
+there are new sentene
+there is new line
+>>>>>>> a8bab901f57932575a03548cf89cd0f002e288c3
